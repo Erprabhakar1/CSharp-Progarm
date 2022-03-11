@@ -1,0 +1,18 @@
+using System;
+namespace aap
+{
+    class program
+    {
+        static void method()
+        {
+            Console.WriteLine("i got execute");
+            Console.ReadLine();
+        }
+        public static void Main(string[] args)
+        {
+            method();
+
+        }
+    }
+
+}
